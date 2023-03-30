@@ -6,10 +6,10 @@ const Footer = () => {
       <div className="footer-top">
         <h3 className="footer-top-title">We Are Always Here To Help You</h3>
         <div className="footer-top-email">
-          <span className="footer-top-email-text">Contact Us With Email</span>
+          <span className="footer-top-email-text">Contact Me With Email</span>
           <span className="footer-top-email-address">
             <i className="bi bi-envelope"></i>
-            wwwkutaebad@gmail.com
+            qutaiba.imad.saleh@gmail.com
           </span>
         </div>
       </div>
